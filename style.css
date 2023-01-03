@@ -1,0 +1,53 @@
+body{
+    background-color: rgba(138, 125, 125, 0.836);
+    margin: 0;
+}
+h1{
+    text-align: center;
+    color: rgba(78, 3, 53, 0.925);
+    
+}
+h2{
+    margin-top: 20px;
+    color:rgba(21, 214, 240, 0.747)
+}
+#count-el{
+    text-align: center;
+    font-size: x-large;
+}
+#increment-btn{background-color: rgba(55, 55, 212, 0.788);}
+    
+
+button{
+    padding: 10PX;
+    font-weight: bold;
+    border:none;
+    border-radius: 5px;
+    color:gold;
+    cursor: pointer;
+    width:20%;
+    box-sizing: border-box;
+}
+#container{
+    display:flex;
+    justify-content: center;
+    
+}
+#save-btn{
+    background-color: rgba(38, 194, 38, 0.788);
+    color:gold;
+    margin-left: 10px;
+}
+p{
+    /* background-color: rgba(96, 67, 122, 0.466); */
+    text-align: center;
+    color:rgba(47, 56, 7, 0.829);
+    font-size: large;
+    font-weight: bold;
+}
+
+#box div{
+    display: flexbox;
+    box-sizing: border-box;
+    
+}
